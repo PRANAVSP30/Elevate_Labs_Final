@@ -38,7 +38,8 @@ A deep learning solution that identifies plant diseases from leaf images using C
 ---
 
 ### 🔹 Credit Card Fraud Detection
-🔗 https://github.com/Sumanth069/Credit-Card-Transactions  
+🔗https://github.com/PRANAVSP30/FraudShield-AI
+
 
 📝 Overview:  
 A predictive model that analyzes transaction data to detect fraudulent activities. It uses data analysis and machine learning techniques to improve financial security.
