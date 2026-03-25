@@ -10,7 +10,7 @@ This repository contains a curated set of projects demonstrating practical appli
 ## 📂 Featured Projects
 
 ### 🔹 Real-Time Sign Language Recognition
-🔗 https://github.com/Sumanth069/Real-Time-Sign-Language-Recognition-using-Hand-Landmarks  
+🔗
 
 📝 Overview:  
 An intelligent system that interprets hand gestures in real time using landmark detection techniques. The goal is to assist communication for individuals with hearing or speech impairments.
@@ -24,7 +24,7 @@ An intelligent system that interprets hand gestures in real time using landmark 
 ---
 
 ### 🔹 Plant Disease Detection (CNN Model)
-🔗 https://github.com/Sumanth069/plant-disease-detection-cnn  
+🔗 
 
 📝 Overview:  
 A deep learning solution that identifies plant diseases from leaf images using Convolutional Neural Networks. This project aims to support agriculture by enabling early disease detection.
