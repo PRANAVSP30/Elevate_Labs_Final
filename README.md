@@ -85,7 +85,7 @@ A predictive model that analyzes transaction data to detect fraudulent activitie
 ## 📫 Connect
 
 - GitHub: https://github.com/PRANAVSP30  
-- LinkedIn: (Add profile link if available)  
+- LinkedIn: linkedin.com/in/pranav-s-p-7b3949304
 
 ---
 
