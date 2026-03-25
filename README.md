@@ -1,6 +1,8 @@
 # 🌟 Machine Learning & AI Project Portfolio
 
-This repository showcases a collection of AI & Machine Learning projects focused on solving real-world problems using intelligent and scalable solutions.
+🚀 AI Developer | Building Real-World Intelligent Systems  
+
+This repository showcases a collection of AI & Machine Learning projects focused on solving real-world problems using intelligent, scalable, and data-driven approaches.
 
 ---
 
@@ -10,7 +12,7 @@ This repository showcases a collection of AI & Machine Learning projects focused
 🔗 https://github.com/PRANAVSP30/FraudShield-AI  
 
 📝 **Overview:**  
-A machine learning-based system that analyzes transaction patterns to detect fraudulent activities. Designed to enhance financial security using data-driven insights.
+A machine learning system that analyzes transaction patterns to detect fraudulent activities, enhancing financial security using predictive modeling.
 
 🛠️ **Technologies Used:**
 - Python  
@@ -20,17 +22,32 @@ A machine learning-based system that analyzes transaction patterns to detect fra
 
 ---
 
+### 🔹 AEGIS – AI Financial Threat Intelligence System 🛡️
+🔗 https://github.com/PRANAVSP30/AEGIS_AI_Security  
+
+📝 **Overview:**  
+An AI-powered financial risk intelligence system developed during **BGS Hackathon 2026**, designed to automate credit risk analysis and fraud detection using multiple machine learning models and intelligent scoring.
+
+🛠️ **Technologies Used:**
+- Python  
+- Scikit-learn  
+- NetworkX  
+- Streamlit  
+- Machine Learning Models  
+
+---
+
 ### 🔹 ResumeMatch AI – Intelligent Resume Ranking System
 🔗 https://github.com/PRANAVSP30/Resume_Matcher_AI  
 
 📝 **Overview:**  
-An NLP-powered system that ranks resumes based on job descriptions using TF-IDF and cosine similarity. Helps recruiters identify the best candidates efficiently.
+An NLP-based system that ranks resumes based on job descriptions using TF-IDF and cosine similarity, enabling efficient candidate screening.
 
 🛠️ **Technologies Used:**
 - Python  
 - Scikit-learn (TF-IDF)  
 - NLTK  
-- PDFPlumber  
+- PDF Processing  
 - Streamlit  
 
 ---
@@ -53,7 +70,7 @@ A real-time computer vision system that detects and interprets hand gestures usi
 🔗 https://github.com/PRANAVSP30/Plant_disease_detection  
 
 📝 **Overview:**  
-A deep learning-based solution that identifies plant diseases from leaf images using CNN models to support smart agriculture.
+A deep learning-based system that identifies plant diseases from leaf images using CNN models, supporting smart agriculture solutions.
 
 🛠️ **Technologies Used:**
 - Python  
@@ -69,6 +86,7 @@ A deep learning-based solution that identifies plant diseases from leaf images u
 - Deep Learning (CNNs)  
 - Natural Language Processing (NLP)  
 - Computer Vision  
+- Financial Risk Analysis  
 - Data Analysis & Predictive Modeling  
 - Real-Time System Development  
 
@@ -76,10 +94,11 @@ A deep learning-based solution that identifies plant diseases from leaf images u
 
 ## 🚀 Project Highlights
 
-- Built real-time gesture recognition systems  
-- Developed NLP-based resume ranking engine  
-- Designed fraud detection system for financial security  
-- Implemented CNN models for image classification  
+- Developed AI-based fraud detection systems  
+- Built NLP-powered resume ranking engine  
+- Designed financial threat intelligence system (Hackathon project)  
+- Implemented real-time gesture recognition using computer vision  
+- Created CNN-based image classification models  
 - Focused on scalable and impactful AI solutions  
 
 ---
