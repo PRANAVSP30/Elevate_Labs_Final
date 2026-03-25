@@ -24,7 +24,7 @@ An intelligent system that interprets hand gestures in real time using landmark 
 ---
 
 ### 🔹 Plant Disease Detection (CNN Model)
-🔗 
+🔗 https://github.com/PRANAVSP30/Plant_disease_detection
 
 📝 Overview:  
 A deep learning solution that identifies plant diseases from leaf images using Convolutional Neural Networks. This project aims to support agriculture by enabling early disease detection.
