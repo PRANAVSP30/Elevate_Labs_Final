@@ -10,7 +10,7 @@ This repository contains a curated set of projects demonstrating practical appli
 ## 📂 Featured Projects
 
 ### 🔹 Real-Time Sign Language Recognition
-🔗
+🔗 https://github.com/PRANAVSP30/Sign_Language_Recognition
 
 📝 Overview:  
 An intelligent system that interprets hand gestures in real time using landmark detection techniques. The goal is to assist communication for individuals with hearing or speech impairments.
