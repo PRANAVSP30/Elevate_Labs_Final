@@ -22,7 +22,7 @@ A machine learning system that analyzes transaction patterns to detect fraudulen
 
 ---
 
-### 🔹 AEGIS – AI Financial Threat Intelligence System 🛡️
+### 🔹 AEGIS – AI Financial Threat Intelligence System 🛡️(My own project did in REVA Hackathon)
 🔗 https://github.com/PRANAVSP30/AEGIS_AI_Security  
 
 📝 **Overview:**  
